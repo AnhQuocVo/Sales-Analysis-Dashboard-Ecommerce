@@ -12,7 +12,9 @@ This project analyzes e-commerce sales performance using Power BI to create an i
 
 ## Dashboard Components
 
-- **KPI Overview**: Total sales (12.44M), orders (86,826), customers (45,249), products sold (80,592)
+![Dashboard Overview](./assets/Dashboard.png)
+
+- **KPI Overview**: Total sales (12.37M), orders (86,226), customers (45,249), products sold (80,032)
 - **Order Status Analysis**: Visual breakdown of shipped, cancelled, and failed orders
 - **Customer Segmentation**: Returning customers analysis with purchase frequency
 - **Inventory Management**: Stock tracking with warnings for low inventory
@@ -32,6 +34,11 @@ This project analyzes e-commerce sales performance using Power BI to create an i
 - 12.44% cancellation rate and 12.22% payment failures indicate process improvement opportunities
 - Real-time inventory tracking prevents stockouts for high-performing SKUs
 -> Reducing failed orders by even 5% could recover substantial lost revenue and improve customer satisfaction
+
+### 4. **Returned Rate**
+
+![Returned Sales](./assets/Returned.png)
+-> Addressing root causes of returns (product quality, description accuracy, merchant service) could recover significant lost revenue and improve customer satisfaction scores
 
 ## Tools Used
 
